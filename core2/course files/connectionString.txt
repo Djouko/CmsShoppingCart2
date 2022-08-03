@@ -1,0 +1,3 @@
+"ConnectionStrings": {
+    "CmsShoppingCartContext": "Server=(localdb)\\mssqllocaldb;Database=;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
